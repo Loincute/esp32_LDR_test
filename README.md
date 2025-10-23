@@ -29,7 +29,7 @@ Khi ánh sáng yếu, **LED** được bật; khi ánh sáng mạnh, **LED** s�
 ## 3. Kết quả hiển thị trên Teleplot
 
 Ảnh dưới đây là **đồ thị cường độ sáng theo thời gian thực** khi chiếu đèn hoặc che tay lên cảm biến:
-
+![image alt](https://github.com/Loincute/esp32_LDR_test/blob/166467d452f2ee06898360c906bd39d15e0c865e/teleplot_esp32.png)
 
 ## 4. Cách sử dụng
 
